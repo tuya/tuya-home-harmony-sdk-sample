@@ -1,0 +1,13 @@
+registry=https://ohpm.openharmony.cn/ohpm/
+strict_ssl=false
+publish_registry=https://ohpm-repo.tuya.com/repos/ohpm
+log_level=info
+fetch_timeout=60000
+max_concurrent=50
+retry_times=1
+retry_interval=1000
+publish_id=9BA32537EE
+@thingsmart:registry=https://ohpm-repo.tuya.com/repos/ohpm
+//ohpm-repo.tuya.com/repos/ohpm/:_auth="YTljMWQ4ODUxZTUwNDNmNmJjMjc2NTFhNTljMjA0OTg="
+@rnoh:registry=https://ohpm-repo.tuya.com/repos/ohpm
+@tuya-oh:registry=https://ohpm-repo.tuya.com/repos/ohpm

@@ -8,28 +8,5 @@
     "@ohos/hamock": "1.0.0"
   },
   "overrides": {
-    "@thingsmart/userlib": "file:./entry/src/main/libs/userlib-1.0.25.har",
-    "@thingsmart/homelib": "file:./entry/src/main/libs/homelib-0.0.79.har",
-    "@thingsmart/activatorlib": "file:./entry/src/main/libs/activatorlib-1.0.13.har",
-    "@thingsmart/activator": "file:./entry/src/main/libs/activator-1.0.23.har",
-    "@thingsmart/device": "file:./entry/src/main/libs/device-1.0.76.har",
-    "@thingsmart/ipcsdkhar": "file:./entry/src/main/libs/ipcsdkhar-1.0.28.har",
-    "@thingsmart/thingp2psdkhar": "file:./entry/src/main/libs/thingp2psdkhar-1.0.12.har",
-    "@thingsmart/thingvideorenderersdk": "file:./entry/src/main/libs/thingvideorenderersdk-1.0.2.har",
-    "@thingsmart/thingcamerasdk": "file:./entry/src/main/libs/thingcamerasdk-1.0.29.har",
-    "@thingsmart/thingavloggersdk": "file:./entry/src/main/libs/thingavloggersdk-1.0.3.har",
-    "@thingsmart/security": "file:./entry/src/main/libs/security-2.0.1.har",
-    "@thingsmart/channel": "file:./entry/src/main/libs/channel-1.0.30.har",
-    "@thingsmart/util": "file:./entry/src/main/libs/util-1.0.9.har",
-    "@thingsmart/securitykv": "file:./entry/src/main/libs/securitykv-1.0.4.har",
-    "@thingsmart/thinglogmodule": "file:./entry/src/main/libs/thinglogmodule-1.0.1.har",
-    "@thingsmart/dynamicstring": "file:./entry/src/main/libs/dynamicstring-1.0.3.har",
-    "@thingsmart/mqtt": "file:./entry/src/main/libs/mqtt-2.0.12.har",
-    "@thingsmart/xlog": "file:./entry/src/main/libs/xlog-1.0.0.har",
-    "@thingsmart/thingaudioenginsdkhar": "file:./entry/src/main/libs/thingaudioenginsdkhar-1.0.4.har",
-    "@thingsmart/dynamicinitializer": "file:./entry/src/main/libs/dynamicinitializer-0.9.2.har",
-    "@thingsmart/dynamicreflect": "file:./entry/src/main/libs/dynamicreflect-0.8.0.har",
-    "@thingsmart/lan": "file:./entry/src/main/libs/lan-1.0.3.har",
-    "@thingsmart/ez": "file:./entry/src/main/libs/ez-1.0.0.har"
   }
 }

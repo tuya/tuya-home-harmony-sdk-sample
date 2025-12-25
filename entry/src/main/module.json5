@@ -12,6 +12,7 @@
     "deliveryWithInstall": true,
     "installationFree": false,
     "pages": "$profile:main_pages",
+    "srcEntry": "./ets/app/AppAbilityStage.ets",
     "abilities": [
       {
         "name": "EntryAbility",
